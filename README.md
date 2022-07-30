@@ -16,6 +16,7 @@ can shoot 5 times in each turn.
 
 Enter the five co-ordinates (x,y) separated by ; to make hit.
 
-[image](https://user-images.githubusercontent.com/105658209/181884600-5a9fab7d-01db-4ff6-bfed-062991eb8669.png)
-[Uploading image.png…]()
+[Sample Output-1](https://user-images.githubusercontent.com/105658209/181884600-5a9fab7d-01db-4ff6-bfed-062991eb8669.png)
+[Sample Output-2](https://user-images.githubusercontent.com/105658209/181886400-b0f14c5c-8fbe-4d0a-9390-0e360587194e.png)
+
 
